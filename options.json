@@ -31,5 +31,26 @@
       }
     ]
   }
+  {
+    "patchName": "Custom branding icon YouTube Music",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "Revancify Red"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name YouTube Music",
+    "options": [
+      {
+        "key": "AppNameNotification",
+        "value": "YT Music"
+      },
+      {
+        "key": "AppNameLauncher",
+        "value": "YT Music"
+      }
+    ]
+  }
 ]
-        
