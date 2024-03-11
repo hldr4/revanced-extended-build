@@ -1,20 +1,20 @@
         
 [
   {
-    "patchName": "Custom branding name YouTube",
-    "options": [
-      {
-        "key": "AppName",
-        "value": "YouTube"
-      }
-    ]
-  },
-  {
     "patchName": "Custom branding icon YouTube",
     "options": [
       {
         "key": "AppIcon",
         "value": "Revancify Red"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name YouTube",
+    "options": [
+      {
+        "key": "AppName",
+        "value": "YouTube"
       }
     ]
   },
@@ -30,7 +30,7 @@
         "value": "@android:color/white"
       }
     ]
-  }
+  },
   {
     "patchName": "Custom branding icon YouTube Music",
     "options": [
@@ -54,3 +54,4 @@
     ]
   }
 ]
+        
