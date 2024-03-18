@@ -20,8 +20,7 @@ build-mode = "module"
 module-prop-name = "YT-RVX"
 included-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Hide animated button background' 'Hide double tap to like animations' 'Hide player button background' 'Hide voice search button'"
 excluded-patches = "'Append time stamps information' 'Custom branding heading' 'Custom double tap length' 'Custom package name' 'Enable wide search bar' 'Keep landscape mode' 'Layout switch' 'Translations' 'Disable HDR auto brightness' 'Change player flyout panel toggles'"
-version = "19.05.36"
-
+#version = "19.05.36"
 
 [YT Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
