@@ -18,7 +18,7 @@ rv-brand = "RVX anddea"
 arch = "arm64-v8a"
 build-mode = "module"
 module-prop-name = "YT-RVX"
-included-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Hide animated button background' 'Hide double tap to like animations' 'Hide player button background' 'Hide voice search button'"
+included-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Hide animated button background' 'Hide double tap to like animations' 'Force hide player buttons background' 'Hide voice search button'"
 excluded-patches = "'Append time stamps information' 'Custom branding heading' 'Custom double tap length' 'Custom package name' 'Disable auto HDR brightness' 'Enable wide search bar' 'Keep landscape mode' 'Layout switch' 'Translations' 'Disable HDR auto brightness' 'Change player flyout panel toggles'"
 #version = "19.05.36"
 
