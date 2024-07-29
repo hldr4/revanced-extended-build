@@ -1,4 +1,5 @@
 YTMusic: 7.08.53  
+YouTube: 19.16.39  
 
 Install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
