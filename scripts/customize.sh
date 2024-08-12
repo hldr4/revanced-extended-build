@@ -99,8 +99,8 @@ ui_print "* Setting Permissions"
 set_perm $MODPATH/base.apk 1000 1000 644 u:object_r:apk_data_file:s0
 
 ui_print "* Mounting __PKGNAME"
-mkdir -p $NVBASE/rvhc
-RVPATH=$NVBASE/rvhc/${MODPATH##*/}.apk
+mkdir -p "/data/adb/rvhc"
+RVPATH=/data/adb/rvhc/${MODPATH##*/}.apk
 mv -f $MODPATH/base.apk $RVPATH
 
 if ! op=$(su -M -c "mount -o bind $RVPATH $BASEPATH/base.apk" 2>&1); then
