@@ -32,6 +32,15 @@
     ]
   },
   {
+    "patchName": "Force player buttons background",
+    "options": [
+      {
+        "key": "BackgroundColor",
+        "value": "@android:color/transparent"
+      }
+    ]
+  },
+  {
     "patchName": "Custom branding icon YouTube Music",
     "options": [
       {
